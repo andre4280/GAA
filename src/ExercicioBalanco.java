@@ -20,7 +20,7 @@ int totalCustos;
         
 		System.out.println (" Olá aleijado, o total das receitas é de " + totalReceitas + "€." );
 		System.out.println ("\n O total de dinheiro ganho com custos pagos é de " + total + "€.");
-		System.out.println (" Sendo que houve " + totalCustos +" de despesas €.");
+		System.out.println (" Sendo que houve " + totalCustos +" de despesas €."); // testes
    
 	}
 	
