@@ -1,4 +1,5 @@
 import dia021116.Ciclos;
+import dia021116.Calculadora_Infinita;
 public class principal {
 
 	public principal() {
@@ -9,8 +10,8 @@ public class principal {
 		//new ExercicioBalanco();
 		//new Adivinha();
 		//new Condicionais();
-		new Ciclos();
-		
+		//new Ciclos();
+		new Calculadora_Infinita();
 	}
 
 }
