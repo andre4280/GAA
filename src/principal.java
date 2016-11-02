@@ -1,4 +1,4 @@
-
+import dia021116.Ciclos;
 public class principal {
 
 	public principal() {
@@ -6,7 +6,11 @@ public class principal {
 	}
 
 	public static void main(String[] args) {
-		new ExercicioBalanco();
+		//new ExercicioBalanco();
+		//new Adivinha();
+		//new Condicionais();
+		new Ciclos();
+		
 	}
 
 }
